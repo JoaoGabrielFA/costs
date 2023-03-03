@@ -1,0 +1,40 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+    background-color: #222;
+}
+
+.coin{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.coin label{
+    color: #FFBB33;
+    font-weight: bold;
+    font-size: 3.2em;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.list{
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+.item{
+    margin-left: 1em;
+    font-weight: bold;
+}
+
+.item a{
+    color: #FFF;
+    text-decoration: none;
+}
+
+.item a:hover{
+    color: #FFBB33;
+}
