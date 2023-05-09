@@ -1,5 +1,28 @@
 {
-  "projects": [],
+  "projects": [
+    {
+      "name": "E-Commerce",
+      "budget": "60000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "Conversor de Moedas",
+      "budget": "30000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    }
+  ],
   "categories": [
     {
       "id": 1,
